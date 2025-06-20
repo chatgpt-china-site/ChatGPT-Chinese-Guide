@@ -1,19 +1,19 @@
 # ChatGPT 中文版【国内免费直连】 | GPT-4、GPT-4o，无需翻墙，2025年最新使用入口~
 
-> 更新：2025/06/06          
+> 更新：2025/06/22          
 
-国内能轻松使用的 [**ChatGPT 中文版**](https://chat.lanjing.pro)，**无需翻墙**，**支持 GPT-4、4o、o1、o3 及中文版功能**
+国内能轻松使用的 [**ChatGPT 中文版**](https://talk.lanjing.pro)，**无需翻墙**，**支持 GPT-4、4o、o1、o3 及中文版功能**
 
-本指南提供 **[ChatGPT 中文版](https://chat.lanjing.pro)使用方法**，并分享国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.pro) 和详细使用教程，帮助您快速上手 ChatGPT ~
+本指南提供 **[ChatGPT 中文版](https://talk.lanjing.pro)使用方法**，并分享国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和详细使用教程，帮助您快速上手 ChatGPT ~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 中文版入口：[https://talk.lanjing.pro](https://talk.lanjing.pro)**   
 **ChatGPT 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI 的 ChatGPT 模型开发的中文版本，专为中文用户设计，提供更流畅、更精准的 智能AI对话~   
+[**ChatGPT 中文版**](https://talk.lanjing.pro) 是基于 OpenAI 的 ChatGPT 模型开发的中文版本，专为中文用户设计，提供更流畅、更精准的 智能AI对话~   
 
 ### 为什么选择 ChatGPT 中文版？
 
@@ -28,7 +28,7 @@
 
 以下是精选的国内优质 **ChatGPT 中文版镜像网站**，无需翻墙即可使用：
 
-- [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - **ChatGPT中文版**，运营2年+，支持 GPT4、4o 及 o1、o3，支持 AI绘画、AI助手、AI插件、AI PPT 等功能，扫码就能用~
+- [https://talk.lanjing.pro/](https://talk.lanjing.pro/) - **ChatGPT中文版**，运营2年+，支持 GPT4、4o 及 o1、o3，支持 AI绘画、AI助手、AI插件、AI PPT 等功能，扫码就能用~
 - [https://xsimplechat.com/](https://xsimplechat.com/) - **ChatGPT 中文站**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 - [https://chat.lify.vip/](https://chat.yixiaai.com/) - **ChatGPT镜像网站**，运营2年多，支持 GPT4、4o、o1 和 o3 模型，还有对话、写作、编程、翻译、办公等等~
 - [https://guide1.lanjing.ai/](https://chat.lanjingai.org/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
@@ -39,7 +39,7 @@
 
 ## 如何使用 ChatGPT 中文版？
 
-1. **选择镜像网站**：访问推荐的镜像站点（如 **一下AI ([chat.lanjing.pro](https://chat.lanjing.pro))**）。
+1. **选择镜像网站**：访问推荐的镜像站点（如 **一下AI ([talk.lanjing.pro](https://talk.lanjing.pro))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 GPT-4 或 GPT-3.5 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
